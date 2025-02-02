@@ -1,7 +1,7 @@
 # Test-case-for-Product-Display
 # Product Display Test Case
 ## Overview
-This repository contains test cases for validating the functionality of a product display feature in a web or mobile application. The purpose is to ensure that products are displayed correctly, consistently, and as per the specified requirements.
+This repository contains test cases for validating the functionality of a product display feature in a web or mobile application. The purpose is to ensure that products are displayed correctly,consistently, and as per the specified requirements.
 ## Features Tested
 - Correct display of product information (name, price, image, etc.)
 - Responsiveness and layout on different screen sizes
